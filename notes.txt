@@ -3,4 +3,4 @@ git add <file>
 git commit -m "your commit message"
 git reset --soft HEAD~1
 Push aus Clone Repository
-Merge Konflikt Simulation 2
+Merge Konflikt Simulation 2 resolved
